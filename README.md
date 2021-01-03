@@ -1,1 +1,1 @@
-# email-application
+# Email Application
