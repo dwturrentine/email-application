@@ -1,5 +1,5 @@
 # Email Application
-
+A simple application that creates email accounts for new hirees.
 
 # Knowledge, Skills, & Abilities
 - Comprehension and application of the Java programming language.
